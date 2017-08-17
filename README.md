@@ -1,6 +1,6 @@
 # deeplearning4d
 
-Deep learning library for Dart based on Google's Tensorflow Playground Neural Net implementation.
+Deep learning library for Dart based on Tensorflow Playground Neural Net implementation.
 
 ## Example
 ```dart
